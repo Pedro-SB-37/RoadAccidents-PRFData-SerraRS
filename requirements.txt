@@ -1,0 +1,7 @@
+lightGMB,
+xGboost,
+geopandas,
+shap,
+folium,
+geobr,
+scikit-learn
